@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f7fb"/><stop offset="1" stop-color="#ffffff"/></linearGradient><filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".16"/></filter><linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#203a8d"/><stop offset="1" stop-color="#4aa9ff"/></linearGradient></defs>
+<rect width="640" height="640" rx="42" fill="url(#bg)"/>
+<ellipse cx="320" cy="548" rx="180" ry="34" fill="#d8dee8" opacity=".5"/>
+<g filter="url(#shadow)"><rect x="173" y="198" width="294" height="242" rx="28" fill="#f1f4f7"/><rect x="196" y="225" width="248" height="190" rx="20" fill="#dc4751"/><rect x="293" y="254" width="54" height="132" rx="8" fill="#fff"/><rect x="254" y="293" width="132" height="54" rx="8" fill="#fff"/><path d="M258 198v-18c0-17 14-31 31-31h62c17 0 31 14 31 31v18" stroke="#707b8b" stroke-width="18" fill="none"/></g></svg>

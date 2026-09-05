@@ -1,0 +1,10 @@
+v.env
+__pycache__/
+*.pyc
+audit_log.json
+.DS_Store
+venv/
+.env
+backend/.env
+
+backend/.env
